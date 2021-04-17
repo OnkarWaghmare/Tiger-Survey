@@ -1,0 +1,19 @@
+.queContainer{
+    padding: 2%;
+    text-align: justify;
+}
+.optionContainer{
+    padding: 2%;
+}
+
+.btn{
+    background-color: tomato;
+    font-size: 20px;
+    border: transparent;
+    border-radius: 5%;
+    margin: 1%;
+}
+.btn:hover{
+    background-color: steelblue;
+    transform: scale(1.2);
+}
